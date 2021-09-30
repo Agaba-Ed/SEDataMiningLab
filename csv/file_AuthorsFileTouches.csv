@@ -1,0 +1,15 @@
+Filename,Author,Date,Touches
+app/src/androidTest/java/com/edcompanies/sharingapp/ExampleInstrumentedTest.java,Agaba-Ed,2021-08-30T18:59:02Z,1
+app/src/main/java/com/edcompanies/sharingapp/AddItemActivity.java,Agaba-Ed,2021-08-30T18:59:02Z,1
+app/src/main/java/com/edcompanies/sharingapp/AllItemsFragment.java,Agaba-Ed,2021-08-30T18:59:02Z,1
+app/src/main/java/com/edcompanies/sharingapp/AvailableItemsFragment.java,Agaba-Ed,2021-08-30T18:59:02Z,1
+app/src/main/java/com/edcompanies/sharingapp/BorrowedItemsFragment.java,Agaba-Ed,2021-08-30T18:59:02Z,1
+app/src/main/java/com/edcompanies/sharingapp/Dimensions.java,Agaba-Ed,2021-08-30T18:59:02Z,1
+app/src/main/java/com/edcompanies/sharingapp/EditItemActivity.java,Agaba-Ed,2021-08-30T18:59:02Z,1
+app/src/main/java/com/edcompanies/sharingapp/Item.java,Agaba-Ed,2021-08-30T18:59:02Z,1
+app/src/main/java/com/edcompanies/sharingapp/ItemAdapter.java,Agaba-Ed,2021-08-30T18:59:02Z,1
+app/src/main/java/com/edcompanies/sharingapp/ItemList.java,Agaba-Ed,2021-08-30T18:59:02Z,1
+app/src/main/java/com/edcompanies/sharingapp/ItemsFragment.java,Agaba-Ed,2021-08-30T18:59:02Z,1
+app/src/main/java/com/edcompanies/sharingapp/MainActivity.java,Agaba-Ed,2021-08-30T18:59:02Z,1
+app/src/main/java/com/edcompanies/sharingapp/SectionsPagerAdapter.java,Agaba-Ed,2021-08-30T18:59:02Z,1
+app/src/test/java/com/edcompanies/sharingapp/ExampleUnitTest.java,Agaba-Ed,2021-08-30T18:59:02Z,1
