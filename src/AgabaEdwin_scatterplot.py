@@ -15,11 +15,11 @@ def main():
     author_file_touches=pd.read_csv(filepath)
 
     #get maximum and minimum date for each column in dataframe
-    max_date=author_file_touches['Date'].max()
+    #max_date=author_file_touches['Date'].max()
     min_date=author_file_touches['Date'].min()
     
     #create new column with number of weeks between dates
-    author_file_touches['Weeks']=author_file_touches.apply(lambda row: weeks_between(row['Date'],max_date),axis=1)
+    author_file_touches['Weeks']=author_file_touches.apply(lambda row: weeks_between(row['Date'],min_date),axis=1)
     author_file_touches.to_csv(r"F:\work\Software Metrics\sre\csv\file_AuthorsFileTouches_withWeeks.csv")
 
     x=author_file_touches['Touches']
