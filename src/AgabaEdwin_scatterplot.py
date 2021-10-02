@@ -19,7 +19,7 @@ def main():
     min_date=author_file_touches['Date'].min()
     
     #create new column with number of weeks between dates
-    author_file_touches['Weeks']=author_file_touches.apply(lambda row: weeks_between(row['Date'],min_date),axis=1)
+    author_file_touches['Weeks']=author_file_touches.apply(lambda row: weeks_between(row[min_date,row["Date"]),axis=1)
     author_file_touches.to_csv(r"F:\work\Software Metrics\sre\csv\file_AuthorsFileTouches_withWeeks.csv")
 
     x=author_file_touches['Touches']
