@@ -7,9 +7,9 @@ import csv
 class CollectFiles:
     def __init__(self):
         self.dictfiles = {}
-        self.lsttokens = ["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"]
-        self.repo = 'Agaba-Ed/SharingApp'
-        self.filepath=r"F:\work\Software Metrics\sre\csv\file_SharingApp.csv"
+        self.lsttokens = ["ghp_ooEhzjvFtPZNscsQf4548LL3X9ru39vyk1"]
+        self.repo = 'scottyab/rootbeer'
+        self.filepath=r"F:\work\Software Metrics\sre\csv\file_rootbeer.csv"
         self.fileobjs = []
         self.commits=[]
         self.sha_objects=[]
@@ -50,17 +50,22 @@ class CollectFiles:
                 # break out of the while loop if there are no more commits in the pages
                 if len(jsonCommits) == 0:
                      break
+        
+                progress_count=0
                 # iterate through the list of commits in  spage
                 for shaObject in jsonCommits:
                     sha = shaObject['sha']
                     # For each commit, use the GitHub commit API to extract the files touched by the commit
                     shaUrl = 'https://api.github.com/repos/' + repo + '/commits/' + sha
                     shaDetails, ct = self.github_auth(shaUrl, lsttokens, ct)
-                    self.sha_objects.append(shaDetails) 
+                    self.sha_objects.append(shaDetails)
+                    progress_count +=1
+                    print("Progress for shaObject:"+str(progress_count)+"/"+str(len(jsonCommits)))
                     '''
 
                     '''
                 ipage += 1
+            print("All commits received..Preparing to get sha_Objects..")
         except Exception as e:
             print(e)
             exit(0)
@@ -93,6 +98,7 @@ class CollectFiles:
 
 
     def countfiles(self,dictfiles):
+        print("Ready to get sourcefiles....")
         sourceFiles=self.getsourcefiles()
         for file in sourceFiles:
             filename=file['filename']

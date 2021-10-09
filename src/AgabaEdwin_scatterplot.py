@@ -7,9 +7,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-from AgabaEdwin_authorsFileTouches import authorsFileTouches
-
-filepath=r"F:\work\Software Metrics\sre\csv\file_AuthorsFileTouches.csv"
+filepath=r"F:\work\Software Metrics\sre\csv\file_RootBeerFileTouches.csv"
 
 def main():
     author_file_touches=pd.read_csv(filepath)
@@ -20,7 +18,7 @@ def main():
     
     #create new column with number of weeks between dates
     author_file_touches['Weeks']=author_file_touches.apply(lambda row: weeks_between(min_date,row["Date"]),axis=1)
-    author_file_touches.to_csv(r"F:\work\Software Metrics\sre\csv\file_AuthorsFileTouches_withWeeks.csv")
+    author_file_touches.to_csv(r"F:\work\Software Metrics\sre\csv\file_RootBeerFileTouches_withWeeks.csv")
 
     x=author_file_touches['Touches']
     y=author_file_touches['Weeks']

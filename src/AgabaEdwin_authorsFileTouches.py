@@ -10,8 +10,8 @@ import pandas as pd
 
 
 
-author_file_touches_path=r"F:\work\Software Metrics\sre\csv\file_AuthorsFileTouches.csv"
-sharing_app_path=r"F:\work\Software Metrics\sre\csv\file_SharingApp.csv"
+author_file_touches_path=r"F:\work\Software Metrics\sre\csv\file_RootBeerFileTouches.csv"
+sharing_app_path=r"F:\work\Software Metrics\sre\csv\file_rootbeer.csv"
 
 def authorsFileTouches():
     """
@@ -35,11 +35,13 @@ def authorsFileTouches():
     
     
     df=pd.DataFrame(data=d)
-    sharing_app=pd.read_csv(sharing_app_path)
+    root_beer=pd.read_csv(sharing_app_path)
 
     #merge the files based on Filename column
-    authors_file_touches=merge(df,sharing_app,on='Filename')
+    authors_file_touches=merge(df,root_beer,on='Filename')
     authors_file_touches.to_csv(author_file_touches_path,index=False)
+
+    print("Task completed....")
     
 
 
