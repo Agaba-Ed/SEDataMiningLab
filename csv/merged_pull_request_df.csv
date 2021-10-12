@@ -1,0 +1,97 @@
+,repo,state,title,created_at,closed_at,merged_at
+1,scottyab/rootbeer,closed,Update library version in documentation to 0.1.0,2021-06-07 08:47:37,2021-06-07 08:50:08,2021-06-07 08:50:08
+2,scottyab/rootbeer,closed,[Fix] Shared object name change,2021-05-22 15:53:11,2021-05-24 07:35:11,2021-05-24 07:35:11
+3,scottyab/rootbeer,closed,Migrate to Cmake and ensure `-fstack-protector-all` is being applied,2021-05-22 13:39:15,2021-05-22 13:42:22,2021-05-22 13:42:21
+5,scottyab/rootbeer,closed,add advice to use background thread in README,2020-07-27 12:59:42,2020-07-27 18:50:10,2020-07-27 18:50:10
+6,scottyab/rootbeer,closed,Delete strings.xml,2020-07-22 07:40:31,2020-07-22 11:25:49,2020-07-22 11:25:49
+7,scottyab/rootbeer,closed,Fixed documentation to fix issue #144,2020-07-17 07:56:42,2020-07-21 13:10:45,2020-07-21 13:10:45
+8,scottyab/rootbeer,closed,Add additional dangerous apps packages,2020-07-15 18:42:34,2020-07-15 20:47:50,2020-07-15 20:47:50
+9,scottyab/rootbeer,closed,Update RootBeer.java,2020-07-14 12:24:29,2020-07-21 13:19:45,2020-07-21 13:19:45
+10,scottyab/rootbeer,closed,Add fstack protector.,2020-04-13 16:18:48,2020-07-17 08:05:45,2020-07-17 08:05:44
+11,scottyab/rootbeer,closed,Convert sample to kotlin,2020-03-16 17:15:19,2021-05-08 14:18:37,2021-05-08 14:18:37
+12,scottyab/rootbeer,closed,Fix uploadArchives to publish to Sonatype (Aka Maven Ceneral),2020-03-16 10:16:01,2020-03-16 11:44:08,2020-03-16 11:44:08
+13,scottyab/rootbeer,closed,Support for Android TV devices,2020-03-11 06:54:16,2020-03-11 09:28:41,2020-03-11 09:28:41
+15,scottyab/rootbeer,closed,Fix issue with jitpack,2020-02-08 21:34:44,2020-02-08 21:35:01,2020-02-08 21:35:01
+16,scottyab/rootbeer,closed,Feature/release 0.0.8,2020-02-04 14:32:40,2020-02-07 14:44:12,2020-02-07 14:44:12
+17,scottyab/rootbeer,closed,Added test for trailing slash on packages,2020-01-30 16:13:36,2020-02-03 20:42:27,2020-02-03 20:42:27
+18,scottyab/rootbeer,closed,Added more root pacakges in,2020-01-30 13:09:28,2020-01-30 16:17:57,2020-01-30 16:17:57
+19,scottyab/rootbeer,closed,Added method to get paths that uses the system variable $PATH and com…,2020-01-28 14:08:29,2020-01-30 13:05:04,2020-01-30 13:05:04
+20,scottyab/rootbeer,closed,Feature/remove busybox default check,2020-01-28 12:52:32,2020-01-30 13:05:21,2020-01-30 13:05:21
+21,scottyab/rootbeer,closed,Fixed typo in word 'writable',2019-12-04 19:20:17,2019-12-09 10:32:19,2019-12-09 10:32:19
+22,scottyab/rootbeer,closed,root without binary device,2019-11-25 08:54:18,2019-11-29 17:15:51,2019-11-29 17:15:51
+23,scottyab/rootbeer,closed,Updated toolchain and converted to AndroidX,2019-11-16 02:57:17,2020-02-03 20:42:41,2020-02-03 20:42:41
+27,scottyab/rootbeer,closed,Fixed typo,2019-05-02 15:28:29,2019-06-10 10:29:10,2019-06-10 10:29:10
+29,scottyab/rootbeer,closed,Update compile to implementation,2018-11-04 05:04:47,2018-11-04 09:36:21,2018-11-04 09:36:21
+33,Skyscanner/backpack,closed,[KOA-4546] Update dialog component to use new spacing grid,2021-10-04 13:35:36,2021-10-06 15:43:40,2021-10-06 15:43:40
+34,Skyscanner/backpack,closed,NO-JIRA: Update spelling of withLoadingBehavior in docs,2021-10-04 12:24:42,2021-10-05 11:11:23,2021-10-05 11:11:23
+35,Skyscanner/backpack,closed,[KOA-4759]: Add new props to support ranges,2021-10-01 16:42:31,2021-10-08 11:25:40,2021-10-08 11:25:40
+38,Skyscanner/backpack,closed,[KOA-3656] Update modal component to use new spacing grid,2021-09-30 08:22:25,2021-10-06 16:19:19,2021-10-06 16:19:19
+39,Skyscanner/backpack,closed,Bump i from 0.3.6 to 0.3.7,2021-09-29 18:00:38,2021-10-01 09:00:43,2021-10-01 09:00:43
+40,Skyscanner/backpack,closed,[KOA-4544] Update card component to use new grid,2021-09-27 16:21:57,2021-09-30 08:24:00,2021-09-30 08:24:00
+41,Skyscanner/backpack,closed,Bump tmpl from 1.0.4 to 1.0.5,2021-09-21 12:59:10,2021-10-01 09:01:02,2021-10-01 09:01:02
+42,Skyscanner/backpack,closed,[KOA-3659]: Update component to new grid and wrap fields,2021-09-09 13:50:09,2021-09-09 16:57:04,2021-09-09 16:57:04
+43,Skyscanner/backpack,closed,[NO JIRA]: Updating propTypes package and fixing incorrect proptypes,2021-09-08 16:59:47,2021-09-10 12:15:51,2021-09-10 12:15:51
+45,Skyscanner/backpack,closed,[KOA-3624] Update textarea component to use new spacing grid,2021-09-06 16:06:16,2021-09-07 15:39:11,2021-09-07 15:39:10
+46,Skyscanner/backpack,closed,[no jira]: Add maria to npm,2021-09-01 09:38:56,2021-09-01 09:56:06,2021-09-01 09:56:06
+47,Skyscanner/backpack,closed,[NO-JIRA] Background image fixes - to discuss,2021-08-31 13:07:48,2021-09-24 10:29:01,2021-09-24 10:29:01
+48,Skyscanner/backpack,closed,[KOA-4712]: New DismissibleChip icon,2021-08-27 11:48:06,2021-08-27 13:59:02,2021-08-27 13:59:02
+49,Skyscanner/backpack,closed,Update input component to use the new grid system,2021-08-27 09:40:15,2021-09-03 14:18:44,2021-09-03 14:18:44
+50,Skyscanner/backpack,closed,[KOA-4547] Flare grid fix,2021-08-26 20:48:44,2021-08-27 11:22:31,2021-08-27 11:22:31
+51,Skyscanner/backpack,closed,[KOA-3655]: Map markers using new 8px grid,2021-08-26 16:37:38,2021-09-09 16:07:47,2021-09-09 16:07:47
+52,Skyscanner/backpack,closed,Update pagination component to use the new spacing grid,2021-08-23 10:58:37,2021-09-06 08:52:29,2021-09-06 08:52:29
+53,Skyscanner/backpack,closed,[KOA-3652]: Update horizontal nav to new spacing system,2021-08-18 17:19:05,2021-08-31 09:25:15,2021-08-31 09:25:15
+54,Skyscanner/backpack,closed,[KOA-4549] Update paragraph component to use the new spacing grid,2021-08-18 15:48:18,2021-08-19 16:40:33,2021-08-19 16:40:33
+55,Skyscanner/backpack,closed,[KOA-4548]: Update nav bar to new spacing system,2021-08-18 15:29:18,2021-08-19 16:50:34,2021-08-19 16:50:33
+56,Skyscanner/backpack,closed,[KOA-3657] Update nudger component to use the new spacing grid,2021-08-17 10:37:22,2021-08-18 11:32:30,2021-08-18 11:32:30
+57,Skyscanner/backpack,closed,[KOA-4550] Update Popover component to use the new spacing grid,2021-08-13 16:31:13,2021-08-19 16:47:49,2021-08-19 16:47:49
+58,Skyscanner/backpack,closed,Koa 4699 drawer alignment fixes,2021-08-13 14:51:44,2021-08-13 15:12:47,2021-08-13 15:12:47
+59,Skyscanner/backpack,closed,[KOA-4701]: Nav Bar relative fixes,2021-08-13 12:11:22,2021-08-13 14:34:47,2021-08-13 14:34:47
+62,k9mail/k-9,closed,"Don't use ""unread count"" in notifications",2021-10-07 18:21:56,2021-10-11 16:58:32,2021-10-11 16:58:32
+63,k9mail/k-9,closed,Update translations,2021-10-05 15:30:17,2021-10-05 15:32:40,2021-10-05 15:32:40
+65,k9mail/k-9,closed,Add metadata for F-Droid,2021-10-05 14:16:01,2021-10-05 15:22:25,2021-10-05 15:22:25
+66,k9mail/k-9,closed,Don't limit line length when converting from HTML to plain text,2021-10-04 15:07:03,2021-10-05 15:18:36,2021-10-05 15:18:36
+68,k9mail/k-9,closed,Tweak drawer item IDs,2021-09-30 16:52:48,2021-10-04 12:36:39,2021-10-04 12:36:39
+69,k9mail/k-9,closed,Don't crash when trying to load an account that has been removed,2021-09-30 15:12:00,2021-10-04 13:15:21,2021-10-04 13:15:20
+70,k9mail/k-9,closed,Remove AccountsLiveData,2021-09-29 22:26:27,2021-09-30 13:39:16,2021-09-30 13:39:16
+71,k9mail/k-9,closed,Avoid crash when getting Flow for non-existent account,2021-09-29 21:48:04,2021-09-30 12:12:00,2021-09-30 12:12:00
+72,k9mail/k-9,closed,Refactor MessageReference,2021-09-29 13:54:02,2021-09-29 16:05:56,2021-09-29 16:05:56
+73,k9mail/k-9,closed,Tweak toolbar in 'choose folder' screen,2021-09-28 17:05:32,2021-09-30 12:11:15,2021-09-30 12:11:15
+74,k9mail/k-9,closed,Moving another method from LocalStore to MessageStore,2021-09-24 17:08:25,2021-09-28 13:19:48,2021-09-28 13:19:48
+75,k9mail/k-9,closed,Remove unused functionality from StorageManager and StorageProvider,2021-09-24 16:44:43,2021-09-28 13:17:42,2021-09-28 13:17:42
+76,k9mail/k-9,closed,Don't call MessageStore.deleteFolders() with an empty list,2021-09-24 16:27:56,2021-09-28 13:16:25,2021-09-28 13:16:25
+77,k9mail/k-9,closed,"Add ""demo"" backend",2021-09-23 20:21:49,2021-09-28 13:28:36,2021-09-28 13:28:36
+78,k9mail/k-9,closed,"Make sure ""memory key"" in MemorizingMessagingListener doesn't change",2021-09-23 20:08:59,2021-09-28 13:16:03,2021-09-28 13:16:03
+79,k9mail/k-9,closed,Fix lock screen notification when there's only one new message,2021-09-23 11:59:18,2021-09-28 13:14:26,2021-09-28 13:14:26
+81,k9mail/k-9,closed,Fix code to pick initial account color,2021-09-22 20:04:57,2021-09-23 09:23:44,2021-09-23 09:23:44
+82,k9mail/k-9,closed,Refactor TracingPowerManager,2021-09-22 11:14:46,2021-09-23 09:46:01,2021-09-23 09:46:01
+83,k9mail/k-9,closed,"Remove ""hide subject in notifications"" setting",2021-09-21 18:13:55,2021-09-22 16:37:40,2021-09-22 16:37:40
+84,k9mail/k-9,closed,Remove WrappedException,2021-09-21 14:44:52,2021-09-22 16:32:33,2021-09-22 16:32:33
+85,k9mail/k-9,closed,Update displayed folder list when folders on server have changed,2021-09-21 12:43:14,2021-09-22 16:29:38,2021-09-22 16:29:37
+86,k9mail/k-9,closed,Remove default account setting,2021-09-21 12:03:16,2021-09-22 16:24:53,2021-09-22 16:24:53
+87,k9mail/k-9,closed,"Fix notification sound for single message ""summary"" notification",2021-09-18 17:20:15,2021-09-20 13:51:34,2021-09-20 13:51:34
+88,k9mail/k-9,closed,Remove Account.isAvailable(),2021-09-17 09:22:27,2021-09-21 11:19:02,2021-09-21 11:19:02
+89,k9mail/k-9,closed,Update sync notification instead of recreating it for every folder,2021-09-17 03:33:38,2021-09-17 09:26:49,2021-09-17 09:26:49
+92,mendhak/gpslogger,closed,Fix preference spacing,2021-10-02 03:24:40,2021-10-03 09:04:51,2021-10-03 09:04:51
+93,mendhak/gpslogger,closed,"v118 - Move to AndroidX, Remove MaterialDialogs, Add Dark Theme",2021-09-26 12:35:05,2021-10-01 17:31:18,2021-10-01 17:31:18
+94,mendhak/gpslogger,closed,New Crowdin updates,2021-09-25 08:50:37,2021-10-01 17:38:37,2021-10-01 17:38:37
+95,mendhak/gpslogger,closed,"New SSH library for modern algorithms, and a File Chooser",2021-09-20 20:40:51,2021-09-22 21:53:01,2021-09-22 21:53:01
+96,mendhak/gpslogger,closed,New Crowdin updates,2021-09-14 21:01:12,2021-09-23 06:45:22,2021-09-23 06:45:22
+97,mendhak/gpslogger,closed,Support Android 11's new file access permission,2021-09-13 19:23:02,2021-09-14 19:12:20,2021-09-14 19:12:20
+98,mendhak/gpslogger,closed,Request focus for annotation text box on open,2021-08-15 22:47:54,2021-08-17 19:07:17,2021-08-17 19:07:16
+99,mendhak/gpslogger,closed,Hi! I have made some modifications to a layout adaptation problem,2021-08-12 08:13:38,2021-08-15 19:28:30,2021-08-15 19:28:30
+100,mendhak/gpslogger,closed,New Crowdin updates,2021-06-04 21:20:20,2021-07-21 17:53:08,2021-07-21 17:53:08
+101,mendhak/gpslogger,closed,New Crowdin updates,2021-06-03 18:22:23,2021-06-04 18:50:57,2021-06-04 18:50:57
+102,mendhak/gpslogger,closed,New Crowdin updates,2021-06-02 21:54:16,2021-06-03 17:23:15,2021-06-03 17:23:15
+103,mendhak/gpslogger,closed,New Crowdin updates,2021-05-25 09:12:04,2021-06-02 19:42:05,2021-06-02 19:42:05
+104,mendhak/gpslogger,closed,New Crowdin updates,2021-05-23 19:54:38,2021-05-23 21:52:25,2021-05-23 21:52:25
+105,mendhak/gpslogger,closed,"Android SDK 30 update, and new permission workflow (including background location)",2021-05-23 15:56:41,2021-05-23 19:41:42,2021-05-23 19:41:42
+106,mendhak/gpslogger,closed,New Crowdin updates,2021-05-22 12:06:41,2021-05-22 12:10:41,2021-05-22 12:10:41
+107,mendhak/gpslogger,closed,New Crowdin updates,2021-05-22 10:23:18,2021-05-22 10:38:36,2021-05-22 10:38:36
+109,mendhak/gpslogger,closed,New Crowdin updates,2021-05-21 07:45:30,2021-05-21 17:58:27,2021-05-21 17:58:27
+110,mendhak/gpslogger,closed,New Crowdin updates,2021-05-20 22:28:32,2021-05-21 07:33:08,2021-05-21 07:33:08
+111,mendhak/gpslogger,closed,[F-Droid] Remove features that make use of Google Play services,2020-12-30 17:11:42,2021-01-06 19:15:00,2021-01-06 19:15:00
+112,mendhak/gpslogger,closed,Add adaptive launcher icon,2020-06-14 04:57:47,2021-05-20 22:42:00,2021-05-20 22:42:00
+113,mendhak/gpslogger,closed,Add warning about system doze,2020-03-29 16:28:52,2021-05-23 19:41:42,2021-05-23 19:41:42
+116,mendhak/gpslogger,closed,"Gps week rollover, http URLs, Android 10 compatibility",2020-01-19 21:24:20,2020-02-06 18:06:42,2020-02-06 18:06:42
+118,mendhak/gpslogger,closed,Milestone 104,2019-11-30 10:17:32,2020-02-08 12:12:02,2020-02-08 12:12:02
+119,mendhak/gpslogger,closed,Split build into multiple steps,2019-08-27 19:50:07,2019-08-27 20:09:31,2019-08-27 20:09:31

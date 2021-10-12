@@ -1,0 +1,10 @@
+,repo,state,title,created_at,closed_at,merged_at
+14,scottyab/rootbeer,closed,Merge pull request #1 from scottyab/master,2020-02-10 08:28:13,2020-02-10 08:28:56,
+24,scottyab/rootbeer,closed,fixed the su path form '/su/bin/' to '/bin/',2019-11-15 04:00:11,2019-11-18 11:04:33,
+28,scottyab/rootbeer,closed,Magisk UDS(Unix Domain Socket) detection added,2018-12-04 08:09:09,2019-02-05 15:13:35,
+64,k9mail/k-9,closed,Update translations,2021-10-05 15:26:00,2021-10-05 15:29:38,
+67,k9mail/k-9,closed,Optimized imports,2021-10-04 14:30:50,2021-10-05 14:26:44,
+80,k9mail/k-9,closed,Enable server-side search by default,2021-09-22 20:49:40,2021-10-05 14:28:25,
+108,mendhak/gpslogger,closed,New Crowdin updates,2021-05-21 21:32:45,2021-05-22 10:16:17,
+114,mendhak/gpslogger,closed,Create My log,2020-03-07 13:47:04,2021-05-22 14:44:34,
+115,mendhak/gpslogger,closed,Refactor Member Ignoring Method smell in GoogleDriveJob class,2020-03-02 11:41:11,2021-05-22 14:42:05,
