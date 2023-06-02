@@ -5,7 +5,7 @@ by the adapted file CollectFiles.py (only source files).
 
 
 from pandas.core.reshape.merge import merge
-from AgabaEdwin_CollectFiles import CollectFiles as cf
+from extract_data import CollectFiles as cf
 import pandas as pd
 
 
