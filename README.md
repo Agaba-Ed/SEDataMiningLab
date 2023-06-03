@@ -9,7 +9,6 @@ This repository contains scripts developed as part of a lab exercise on mining s
 - [Contributing](#contributing)
 - [License](#license)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
 
 ## Installation
@@ -58,7 +57,7 @@ This project is licensed under the MIT License.
 For any questions, support, or feedback, please feel free to reach out:
 
 - Email: 2019bse001@std.must.ac.ug
-- Twitter: [@null_and_void](https://twitter.com/null_and_void)
+- Twitter: [@Agaba_Ed](https://twitter.com/Agaba_Ed)
 - GitHub: [Agaba-Ed](https://github.com/Agaba-Ed)
 
 
