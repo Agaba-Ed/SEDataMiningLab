@@ -1,10 +1,3 @@
-'''
-Write a script that will extract the merged pull requests and the closed (but not merged) 
-from each of the repositories above. You can read about the structure of the pull 
-requests from here  Pull Reuests. Draw one graph containing all the five repos above which 
-compares merged pull requests and closed (but not merged).
-'''
-
 
 import requests
 import matplotlib.pyplot as plt
